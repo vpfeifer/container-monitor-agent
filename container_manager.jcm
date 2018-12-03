@@ -1,0 +1,12 @@
+mas container_manager {
+
+	agent containers_agent
+    
+    agent services_agent
+    
+    // agent interval_monitor_agent
+    
+    agent ai_monitor_agent
+    
+    // agent test_agent
+}
